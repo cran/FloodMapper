@@ -1,0 +1,21 @@
+ID,Desp,C_D,Alpha
+11,Open Water,0.003,0.0
+12,Perennial Ice/Snow,0.003,0.0
+21,Developed (Open Space),0.014,0.8
+22,Developed (Low Intensity),0.011,0.5
+23,Developed (Medium Intensity),0.008,0.2
+24,Developed (High Intensity),0.005,0.0
+31,Barren Land (Rock/Sand/Clay),0.01,1.0
+41,Deciduous Forest,0.15,1.0
+42,Evergreen Forest,0.15,1.0
+43,Mixed Forest,0.15,1.0
+51,Dwarf Scrub,0.2,1.0
+52,Shrub/Scrub,0.2,1.0
+71,Grassland/Herbaceous,0.12,1.0
+72,Sedge/Herbaceous,0.12,1.0
+73,Lichens,0.12,1.0
+74,Moss,0.12,1.0
+81,Pasture/Hay,0.15,1.0
+82,Cultivated Crops,0.18,1.0
+90,Woody Wetlands,0.15,0.0
+95,Emergent Herbaceous Wetlands,0.12,0.0

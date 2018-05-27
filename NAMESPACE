@@ -1,0 +1,20 @@
+# Exported functions
+export(
+	FM.init,
+	FM.readDEM,
+	FM.readLandcover,
+	FM.readSoil,
+	FM.readDraininlets,
+	FM.readPrecip,
+	FM.readInflow,
+	FM.start,
+	FM.animate,
+	FM.rerun
+)
+importFrom("stats", "cor", "median", "na.omit", "qf", "runif", "sd")
+importFrom("utils", "read.csv", "read.table", "write.table", "flush.console", "stack")
+importFrom("grDevices", "dev.off", "pdf", "png")
+importFrom("graphics", "mtext", "par", "plot", "rect")
+importFrom("sp", "spTransform", "CRS")
+importFrom("raster", "rasterToPoints", "res", "raster", "writeRaster", "plot", "plotRGB")
+importFrom("magick", "image_animate", "image_read", "image_write")

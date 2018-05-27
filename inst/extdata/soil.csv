@@ -1,0 +1,14 @@
+ID,Texture,Porosity,Beta
+0,Water,0.000,100.000
+1,Sand,0.395,5.000
+2,Loamy sand,0.410,5.562
+3,Sandy loam,0.435,9.039
+4,Silt loam,0.485,9.824
+5,Silt,0.493,9.667
+6,Loam,0.451,9.831
+7,Sandy clay loam,0.420,9.849
+8,Silty clay loam,0.477,9.981
+9,Clay loam,0.476,9.959
+10,Sandy clay,0.426,9.968
+11,Silty clay,0.492,10.000
+12,Clay,0.482,9.993
